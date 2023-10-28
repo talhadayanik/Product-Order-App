@@ -10,5 +10,5 @@ An android app which you can add products to cart and order with Retrofit and Gl
 - documentation: https://dummyjson.com/docs/
 
 ## Screenshots
-<img src="ProductOrderApp/ss0.png" width=300>          <img src="ProductOrderApp/ss1.png" width=300>          <img src="ProductOrderApp/ss2.png" width=300>          <img src="ProductOrderApp/ss3.png" width=300>
+<img src="screenshots/ss0.png" width=300>          <img src="screenshots/ss1.png" width=300>          <img src="screenshots/ss2.png" width=300>          <img src="screenshots/ss3.png" width=300>
 
